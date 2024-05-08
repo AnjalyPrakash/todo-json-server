@@ -1,0 +1,14 @@
+{
+  "todo": [
+    {
+      "todo": "study react js",
+      "description": "redux js ,thunk",
+      "id": 1
+    },
+    {
+      "todo": "coding",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "id": 2
+    }
+  ]
+}
